@@ -1,0 +1,23 @@
+{
+  "name": "mercadopago-ej",
+  "version": "1.0.0",
+  "description": "Ejercicio para Partners MercadoPago Developers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farenheit56/mercadopago-ejercicio.git"
+  },
+  "keywords": [
+    "mercadopago"
+  ],
+  "author": "Lucas Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farenheit56/mercadopago-ejercicio/issues"
+  },
+  "homepage": "https://github.com/farenheit56/mercadopago-ejercicio#readme"
+}
